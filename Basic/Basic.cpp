@@ -7,9 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	ThePointer p;
-	p.charPointer();
-	p.intPointer();
+	
 	system("pause");
 	return 0;
 }
