@@ -9,6 +9,7 @@ public:
 	void outputIntAndDouble(void);
 	void AssignmentBetweenPointers(void);
 	void compareAddAndAddAdd(void);
+	void PointerAndArray(void);
 	
 };
 

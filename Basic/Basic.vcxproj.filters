@@ -30,6 +30,18 @@
     <ClInclude Include="ThePointer.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="quote.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dsa.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fun.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="insideClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -42,6 +54,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ThePointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="quote.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dsa.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fun.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="insideClass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

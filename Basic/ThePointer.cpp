@@ -72,3 +72,13 @@ void ThePointer::compareAddAndAddAdd(void)
 	p2++;
 	cout<<"this is p2:"<<p2<<endl;
 }
+//指针和数组比较
+/*
+其中a为a[3]数组中的首地址指针
+*/
+void ThePointer::PointerAndArray(void)
+{
+	int a[3] = {3,29,10},*p;
+	p = a;
+	cout<<*p<<endl;
+}
